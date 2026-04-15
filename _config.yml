@@ -13,16 +13,21 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
-search: true
+# title: MM
+# email:
+# description: >- # this means to ignore newlines until "baseurl:"
+#   Write an awesome description for your new site here. You can edit this
+#   line in _config.yml. It will appear in your document head meta (for
+#   Google search results) and in your feed.xml site description.
+# twitter_username: username
+# github_username: username
+# minimal_mistakes_skin: default
+# search: true
+
+title: "Vishnu Tripathi"
+name: "Vishnu Tripathi"
+description: "AI Researcher | LLMs, Knowledge Graphs, Document Intelligence"
+
 
 # Build settings
 markdown: kramdown
@@ -36,6 +41,14 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 include:
   - _pages
 
+
+header_pages:
+  - _pages/home.md
+  - _pages/research.md
+  - _pages/publicationss.md
+  - _pages/experience.md
+  - _pages/contact.md
+  
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
@@ -58,22 +71,18 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name: "Vishnu Tripathi"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "Junior Research Fellow at CAIR Lab working on LLMs, Knowledge Graphs, and Document Intelligence."
+  locations: "Haridwar, India"
+  email: "vishnu.tripathi.2004@gmail.com"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Google Scholar"
+      url: "https://scholar.google.com/..."
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/TechieTripathi"
+    - label: "LinkedIn"
+      url: "https://linkedin.com/in/vishnu-tripathi"
 
 footer:
   links:

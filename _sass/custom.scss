@@ -1,0 +1,105 @@
+  /* ===== SAFE Academic Override (Keeps Structure) ===== */
+
+  body {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 17px;
+    line-height: 1.7;
+    color: #111;
+  }
+
+  h1, h2, h3, h4 {
+  font-family: Georgia, "Times New Roman", serif;
+  font-weight: 600;
+  color: #111;
+}
+a {
+  color: #1772d0;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #f09228;
+}
+
+
+
+.masthead {
+  border-bottom: 1px solid #eee;
+  background: #fff;
+}
+
+.masthead__menu-item a {
+  font-size: 14px;
+  color: #333;
+}
+
+.masthead__menu-item a:hover {
+  color: #1772d0;
+}
+
+.author__name {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.author__bio {
+  font-size: 14px;
+  color: #555;
+}
+
+
+  /* Keep layout intact, only refine */
+  .page__title {
+    font-weight: 500;
+    letter-spacing: -0.3px;
+  }
+
+  /* Section headings */
+  .page__content h2 {
+    font-size: 22px;
+    font-weight: 600;
+    margin-top: 2em;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 5px;
+  }
+
+  .page__content {
+  max-width: 780px;
+}
+
+.page__content h2 {
+  margin-top: 2em;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 5px;
+}
+
+  /* Paragraph spacing */
+  .page__content p {
+    margin-bottom: 1.2em;
+  }
+
+  /* Links */
+  a {
+    color: #1772d0;
+    text-decoration: none;
+  }
+
+  a:hover {
+    color: #f09228;
+  }
+
+  /* Sidebar clean (NOT remove) */
+  .author__bio {
+    font-size: 14px;
+    color: #444;
+  }
+
+  /* Reduce heaviness but keep nav */
+  .masthead {
+    border-bottom: 1px solid #eee;
+  }
+
+  /* Remove excessive spacing */
+  .page__content {
+    max-width: 800px;
+  }
