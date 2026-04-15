@@ -1,46 +1,55 @@
 ---
-layout: archive
+layout: single
 title: "Publications"
 permalink: /publications/
+author_profile: true
 ---
 
-## 2025
+## Peer-Reviewed Papers
 
-### AI-Monitors at GenAI Detection Task 1: Fast and Scalable Machine-Generated Text Detection  
-**COLING 2025 (GenAIDetect Workshop)**  
-- Proposed a scalable pipeline for detecting machine-generated text using hybrid features  
-- Achieved competitive performance in an international shared task  
-[Paper](https://aclanthology.org/2025.genaidetect-1.25/)
-
----
-
-### AI-Driven Knowledge Graphs for Interoperable Digital Ecosystems  
-**ACIS 2025**  
-- Designed AI-driven framework for knowledge graph construction across heterogeneous systems  
+**Big Data-Guided Knowledge Graph and Its Visualization from Multi-Text Formats and Value-Added Interpretation** (2024)
+*International Conference on Information Systems (ICIS 2024), Special Interest Group on Big Data Proceedings.*
 
 ---
 
-### AI and IoHT Guided Bioinformatics Solutions – Managing Stress Related Mental Health  
-**PACIS 2025**  
-- Applied AI and IoT-based frameworks for mental health monitoring  
+**AI-Monitors at GenAI Detection Task 1: Fast and Scalable Machine-Generated Text Detection** (2025)
+*Workshop Paper — Proceedings of the 1st Workshop on GenAI Content Detection (GenAIDetect), co-located with COLING 2025.*
 
 ---
 
-### Explainable AI for Depression Detection from Social Media Texts using BERT and SHAP  
-**AIHW 2025**  
-- Developed explainable model for depression detection with SHAP-based interpretability  
+**Information System Guided Reverse Logistics – Managing the Green Industry Environments** (2024)
+*SIGGreen Pre-ICIS 2024 Workshop, Special Interest Group on Green Information Systems.*
 
 ---
 
-## 2024
-
-### Big Data-Guided Knowledge Graph and Its Visualization from Multi-Text Formats  
-**ICIS 2024 (SIG on Big Data)**  
-- Built knowledge graph pipeline from multi-format text sources  
-[Paper](https://aisel.aisnet.org/sigbd2024/1/)
+**AI and IoHT Guided Bioinformatics Solutions – Managing Stress Related Mental Health** (2025)
+*PACIS 2025 Proceedings, Track on IS for Healthcare.*
 
 ---
 
-### Information System Guided Reverse Logistics – Managing Green Industry Environments  
-**SIGGreen Pre-ICIS 2024 Workshop**  
-- Proposed framework for sustainable reverse logistics using information systems  
+**AI-Driven Knowledge Graphs for Interoperable Digital Ecosystems** (2025)
+*ACIS 2025 Proceedings.*
+
+---
+
+**Sustainable Knowledge-Guided Big Data: Augmented AI Models for Predicting the Coexistence Between Diverse Digital Ecosystems** (2025)
+*International Conference on Information Systems (ICIS 2025), Special Interest Group on Big Data Proceedings.*
+
+---
+
+**Explainable AI for Depression Detection from Social Media Texts using BERT and SHAP** (2025)
+*Presented at AIHW 2025 — publication in progress.*
+
+---
+
+## Book Chapters
+
+**AI-Driven Virtual Health Assistants: Utilising Generative AI for Patient Engagement and Mental Health Support** (2025, Forthcoming)
+*Book Chapter in "Generative AI: Revolutionizing Creativity and Problem-Solving," Bentham Science Publishers.*
+
+---
+
+## Competition Papers
+
+**Narrative Similarity: Hybrid Embedding + LLM Ensemble** (SemEval 2026 Task 4)
+*Ranked 3rd out of 47 international systems. Achieving 75% test accuracy, approaching human annotator ceiling of 78%.*

@@ -5,91 +5,20 @@ permalink: /
 author_profile: true
 ---
 
-# Vishnu Tripathi  
-**AI Researcher**
+<!-- ---
+layout: home
+title: "Vishnu Tripathi"
+author_profile: true
+--- -->
 
-Junior Research Fellow @ CAIR Lab  
-MCA Data Science  
+I'm a published AI/ML researcher and full-stack developer with nearly 3 years of experience spanning **Computer Vision**, **Natural Language Processing**, and **Knowledge Systems**.
 
-Research: LLMs · Multimodal AI · Document Intelligence · Explainable AI  
+I have authored **7+ peer-reviewed publications** at venues including COLING 2025, ICIS 2024, PACIS 2025, and ACIS 2025, and I currently serve as a **Junior Research Fellow** at the CAIR Lab, Institute of Artificial Intelligence, Dev Sanskriti Vishwavidyalaya.
 
-[CV](#) · [Google Scholar](#) · [GitHub](https://github.com/TechieTripathi) · [LinkedIn](https://linkedin.com/in/vishnu-tripathi)
+My work bridges the gap between academic research and production-grade systems — from OCR pipelines for historical documents and LLM-based knowledge graph extraction, to deploying e-learning platforms serving 300+ users in the real world.
 
----
-
-## About
-
-I am a researcher working on large language models, multimodal AI systems, and document intelligence.
-
-Currently, I am a Junior Research Fellow at CAIR Lab, where I work on real-world AI systems for logistics optimization and healthcare applicationss.
-
-My research focuses on building reliable, explainable, and scalable AI systems that bridge research and real-world deployment.
+**Research Interests:** Large Language Models · Knowledge Graphs · Computer Vision · OCR & Document Intelligence · AI for Healthcare
 
 ---
 
-## Research
-
-### Research Interests
-- Large Language Models (LLMs)  
-- Multimodal AI  
-- Document Intelligence & OCR Systems  
-- Explainable AI in Healthcare  
-- Applied AI for Logistics  
-
----
-
-### Selected Work
-
-**OCR with LLaMA Vision**  
-Built OCR pipeline using LLaMA 3.1 Vision with fallback Surya OCR for robustness.  
-*Tech:* LLaMA, Python, OCR  
-
----
-
-**Depression Detection (Multimodal + XAI)**  
-Combined physiological (WESAD) + Reddit text data with SHAP explainability.  
-*Tech:* Python, ML, SHAP  
-
----
-
-**Logistics AI (Safexpress Projects)**  
-Vehicle damage detection and package anomaly detection system.  
-*Tech:* OpenCV, Deep Learning  
-
----
-
-**Face Recognition Tracking System**  
-Multi-frame identity verifications with confidence-based filtering.  
-*Tech:* OpenCV, DeepFace  
-
----
-
-### Ongoing Work
-- Explainable AI for Depression Detection using IoT data  
-- Generative AI in Mental Health (Book Chapter)  
-- LLM-based OCR for historical documents  
-
----
-
-## Publicationss
-
-**AI-Powered Virtual Health Assistants: Generative AI in Patient Engagement and Mental Health**  
-(Book Chapter, under review)
-
----
-
-## Experience
-
-**CAIR Lab, Institute of AI — Junior Research Fellow**  
-Working on logistics AI and applied computer vision systems  
-
-**Safexpress AI Projects**  
-Vehicle damage analysis, anomaly detection, package intelligence  
-
----
-
-## Contact
-
-Email: vishnu.tripathi.2004@gmail.com  
-GitHub: https://github.com/TechieTripathi  
-LinkedIn: https://linkedin.com/in/vishnu-tripathi  
+> *"Ranked 3rd out of 47 international systems in SemEval 2026 Task 4 on narrative similarity."*
